@@ -1,0 +1,39 @@
+{
+	"wallpapers": [
+		{
+			"name": "wall1",
+			"author": "test",
+			"url": "https://firebasestorage.googleapis.com/v0/b/walls-2k.appspot.com/o/wall1.jpg?alt=media&token=25a448b3-63de-4b8f-8a58-b7b9d77c7dff",
+			"dimensions": "2801 x 4461",
+			"copyright": "knlbkjbl"
+		},
+		{
+			"name": "wall2",
+			"author": "test",
+			"url": "https://firebasestorage.googleapis.com/v0/b/walls-2k.appspot.com/o/wall2.jpg?alt=media&token=404f65c4-ea82-457f-b347-328398415130",
+			"dimensions": "4775 x 3442",
+			"copyright": "knlbkjbl"
+		},
+		{
+			"name": "wall3",
+			"author": "test",
+			"url": "https://firebasestorage.googleapis.com/v0/b/walls-2k.appspot.com/o/wall3.jpg?alt=media&token=df79d9f9-ccbf-40ef-b1f1-f56fd5e98e75",
+			"dimensions": "3648 x 5472",
+			"copyright": "knlbkjbl"
+		},
+		{
+			"name": "wall4",
+			"author": "test",
+			"url": "https://firebasestorage.googleapis.com/v0/b/walls-2k.appspot.com/o/wall4.jpg?alt=media&token=ae188a30-9d55-489c-b85d-945a46738a48",
+			"dimensions": "3805 x 5708",
+			"copyright": "knlbkjbl"
+		},
+		{
+			"name": "wall5",
+			"author": "test",
+			"url": "https://firebasestorage.googleapis.com/v0/b/walls-2k.appspot.com/o/wall5.jpg?alt=media&token=69bf4e02-0389-4d53-bc03-1201c7d8c2f1",
+			"dimensions": "1280 x 900",
+			"copyright": "knlbkjbl"
+		}
+	]
+}
